@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Submission Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Tempat untuk berbagi cerita!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data diri di bawah ini</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan data diri</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="upload_button">add story</string>
+    <string name="title_story">Title</string>
+    <string name="description_story">this is the story...</string>
+    <string name="image">image</string>
+    <string name="camera_button">Camera</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="upload_error">Pick the image!</string>
+    <string name="login_success">Login Success</string>
+
+    <string name="unexpected_error">Unexpected error occurred</string>
+    <string name="email_removed">Email berhasil dihapus</string>
+
+</resources>
